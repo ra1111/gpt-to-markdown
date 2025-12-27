@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Stripper & Text Refiner",
+  "description": "A high-performance utility designed to strip Markdown formatting from AI-generated text while meticulously preserving original spacing, line breaks, and structural integrity. Ideal for preparing AI outputs for clean copy-pasting into documents or presentations.",
+  "requestFramePermissions": []
+}
